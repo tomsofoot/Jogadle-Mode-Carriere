@@ -1,0 +1,8 @@
+JOGADLE — MODE CARRIÈRE — DATA DU JEU 2
+
+Ce paquet concerne uniquement le Jeu 2. Il ne modifie pas le Jeu 1.
+
+1. Ouvre le dossier local Jogadle-Mode-Carriere.
+2. Copie les dossiers data et scripts à la racine du dépôt.
+3. Ne remplace pas index.html ni README.
+4. Dans GitHub Desktop : Commit to develop, puis Push origin.

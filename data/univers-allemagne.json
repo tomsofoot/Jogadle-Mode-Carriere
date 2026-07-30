@@ -1,0 +1,2090 @@
+{
+  "version": 3,
+  "players": [
+    {
+      "qid": "Q98784065",
+      "name": "Ismael Saibari",
+      "fame": 43
+    },
+    {
+      "qid": "Q154512",
+      "name": "Danijel Pranjić",
+      "fame": 44
+    },
+    {
+      "qid": "Q14640027",
+      "name": "Jonathan Tah",
+      "fame": 51
+    },
+    {
+      "qid": "Q155054",
+      "name": "Diego Contento",
+      "fame": 40
+    },
+    {
+      "qid": "Q472300",
+      "name": "Marcel Sabitzer",
+      "fame": 48
+    },
+    {
+      "qid": "Q11059683",
+      "name": "Pierre Højbjerg",
+      "fame": 46
+    },
+    {
+      "qid": "Q365208",
+      "name": "Adolfo Valencia",
+      "fame": 26
+    },
+    {
+      "qid": "Q155440",
+      "name": "David Jarolím",
+      "fame": 36
+    },
+    {
+      "qid": "Q366109",
+      "name": "Mario Basler",
+      "fame": 37
+    },
+    {
+      "qid": "Q367474",
+      "name": "Takashi Usami",
+      "fame": 61
+    },
+    {
+      "qid": "Q368441",
+      "name": "James Rodríguez",
+      "fame": 90
+    },
+    {
+      "qid": "Q155884",
+      "name": "Christian Ziege",
+      "fame": 41
+    },
+    {
+      "qid": "Q155903",
+      "name": "Dietmar Hamann",
+      "fame": 40
+    },
+    {
+      "qid": "Q128912",
+      "name": "Daley Blind",
+      "fame": 59
+    },
+    {
+      "qid": "Q156802",
+      "name": "José Paolo Guerrero",
+      "fame": 49
+    },
+    {
+      "qid": "Q271882",
+      "name": "Robert Kovač",
+      "fame": 44
+    },
+    {
+      "qid": "Q157839",
+      "name": "Christian Lell",
+      "fame": 27
+    },
+    {
+      "qid": "Q157847",
+      "name": "Harald Schumacher",
+      "fame": 44
+    },
+    {
+      "qid": "Q158243",
+      "name": "Zvjezdan Misimović",
+      "fame": 45
+    },
+    {
+      "qid": "Q159123",
+      "name": "Nils Petersen",
+      "fame": 32
+    },
+    {
+      "qid": "Q131234",
+      "name": "Toni Kroos",
+      "fame": 85
+    },
+    {
+      "qid": "Q131261",
+      "name": "Oliver Kahn",
+      "fame": 81
+    },
+    {
+      "qid": "Q96072055",
+      "name": "Jamal Musiala",
+      "fame": 60
+    },
+    {
+      "qid": "Q159622",
+      "name": "Ali Daei",
+      "fame": 51
+    },
+    {
+      "qid": "Q276207",
+      "name": "Vahid Hashemian",
+      "fame": 27
+    },
+    {
+      "qid": "Q160106",
+      "name": "Sebastian Deisler",
+      "fame": 37
+    },
+    {
+      "qid": "Q212854",
+      "name": "Brian Laudrup",
+      "fame": 47
+    },
+    {
+      "qid": "Q4949787",
+      "name": "Bouna Sarr",
+      "fame": 38
+    },
+    {
+      "qid": "Q31981",
+      "name": "David Alaba",
+      "fame": 67
+    },
+    {
+      "qid": "Q161054",
+      "name": "Ivan Perišić",
+      "fame": 72
+    },
+    {
+      "qid": "Q28531111",
+      "name": "Luis Díaz",
+      "fame": 59
+    },
+    {
+      "qid": "Q43682",
+      "name": "Philipp Lahm",
+      "fame": 86
+    },
+    {
+      "qid": "Q43913",
+      "name": "Arjen Robben",
+      "fame": 93
+    },
+    {
+      "qid": "Q44073",
+      "name": "Bixente Lizarazu",
+      "fame": 59
+    },
+    {
+      "qid": "Q44118",
+      "name": "Hamit Altıntop",
+      "fame": 54
+    },
+    {
+      "qid": "Q372858",
+      "name": "Ciriaco Sforza",
+      "fame": 29
+    },
+    {
+      "qid": "Q44181",
+      "name": "Anatoly Timochtchouk",
+      "fame": 52
+    },
+    {
+      "qid": "Q44298",
+      "name": "Bastian Schweinsteiger",
+      "fame": 76
+    },
+    {
+      "qid": "Q44309",
+      "name": "Daniel Van Buyten",
+      "fame": 53
+    },
+    {
+      "qid": "Q44513",
+      "name": "Willy Sagnol",
+      "fame": 45
+    },
+    {
+      "qid": "Q44522",
+      "name": "Stefan Effenberg",
+      "fame": 46
+    },
+    {
+      "qid": "Q163040",
+      "name": "Thomas Linke",
+      "fame": 31
+    },
+    {
+      "qid": "Q44673",
+      "name": "Andreas Ottl",
+      "fame": 33
+    },
+    {
+      "qid": "Q44742",
+      "name": "Breno Borges",
+      "fame": 28
+    },
+    {
+      "qid": "Q44815",
+      "name": "Giovane Élber",
+      "fame": 38
+    },
+    {
+      "qid": "Q110463620",
+      "name": "Paul Wanner",
+      "fame": 29
+    },
+    {
+      "qid": "Q163666",
+      "name": "Pepe Reina",
+      "fame": 75
+    },
+    {
+      "qid": "Q110486192",
+      "name": "Nestory Irankunda",
+      "fame": 32
+    },
+    {
+      "qid": "Q96391665",
+      "name": "Malik Tillman",
+      "fame": 33
+    },
+    {
+      "qid": "Q156822",
+      "name": "Lúcio",
+      "fame": 55
+    },
+    {
+      "qid": "Q15241424",
+      "name": "Julian Green",
+      "fame": 40
+    },
+    {
+      "qid": "Q13365847",
+      "name": "Niklas Süle",
+      "fame": 52
+    },
+    {
+      "qid": "Q217384",
+      "name": "Ali Karimi",
+      "fame": 40
+    },
+    {
+      "qid": "Q26708753",
+      "name": "Marc Roca",
+      "fame": 29
+    },
+    {
+      "qid": "Q167962",
+      "name": "Jens Jeremies",
+      "fame": 33
+    },
+    {
+      "qid": "Q508467",
+      "name": "Thomas Helmer",
+      "fame": 34
+    },
+    {
+      "qid": "Q969725",
+      "name": "Harry Kane",
+      "fame": 95
+    },
+    {
+      "qid": "Q60839691",
+      "name": "Chris Richards",
+      "fame": 34
+    },
+    {
+      "qid": "Q107076",
+      "name": "Torsten Frings",
+      "fame": 50
+    },
+    {
+      "qid": "Q160403",
+      "name": "Andreas Herzog",
+      "fame": 34
+    },
+    {
+      "qid": "Q163750",
+      "name": "Jorginho",
+      "fame": 58
+    },
+    {
+      "qid": "Q44834",
+      "name": "Thomas Kraft",
+      "fame": 30
+    },
+    {
+      "qid": "Q169993",
+      "name": "Andreas Görlitz",
+      "fame": 27
+    },
+    {
+      "qid": "Q170150",
+      "name": "Carsten Jancker",
+      "fame": 33
+    },
+    {
+      "qid": "Q275643",
+      "name": "Jan Wouters",
+      "fame": 34
+    },
+    {
+      "qid": "Q15406583",
+      "name": "Corentin Tolisso",
+      "fame": 51
+    },
+    {
+      "qid": "Q130776450",
+      "name": "Lennart Karl",
+      "fame": 31
+    },
+    {
+      "qid": "Q107365",
+      "name": "Manuel Neuer",
+      "fame": 99
+    },
+    {
+      "qid": "Q134976",
+      "name": "Lukas Podolski",
+      "fame": 91
+    },
+    {
+      "qid": "Q4241680",
+      "name": "Raphaël Guerreiro",
+      "fame": 53
+    },
+    {
+      "qid": "Q63699748",
+      "name": "Sacha Boey",
+      "fame": 25
+    },
+    {
+      "qid": "Q110053",
+      "name": "Mats Hummels",
+      "fame": 75
+    },
+    {
+      "qid": "Q20435178",
+      "name": "Alexander Nübel",
+      "fame": 39
+    },
+    {
+      "qid": "Q40352866",
+      "name": "Michaël Cuisance",
+      "fame": 31
+    },
+    {
+      "qid": "Q391680",
+      "name": "Douglas Costa",
+      "fame": 58
+    },
+    {
+      "qid": "Q43666",
+      "name": "Thomas Müller",
+      "fame": 94
+    },
+    {
+      "qid": "Q121068701",
+      "name": "Aleksandar Pavlović",
+      "fame": 39
+    },
+    {
+      "qid": "Q312089",
+      "name": "Patrik Andersson",
+      "fame": 35
+    },
+    {
+      "qid": "Q142283",
+      "name": "Michael Tarnat",
+      "fame": 27
+    },
+    {
+      "qid": "Q13865408",
+      "name": "Joshua Kimmich",
+      "fame": 69
+    },
+    {
+      "qid": "Q309532",
+      "name": "Eric-Maxim Choupo-Moting",
+      "fame": 55
+    },
+    {
+      "qid": "Q329451",
+      "name": "Luiz Gustavo",
+      "fame": 51
+    },
+    {
+      "qid": "Q311872",
+      "name": "Philippe Coutinho",
+      "fame": 75
+    },
+    {
+      "qid": "Q312115",
+      "name": "Tom Starke",
+      "fame": 41
+    },
+    {
+      "qid": "Q28692516",
+      "name": "Marco Friedl",
+      "fame": 36
+    },
+    {
+      "qid": "Q314241",
+      "name": "José Sosa",
+      "fame": 41
+    },
+    {
+      "qid": "Q316203",
+      "name": "Jan Schlaudraff",
+      "fame": 25
+    },
+    {
+      "qid": "Q316229",
+      "name": "Paulo Sérgio Silvestre do Nascimento",
+      "fame": 32
+    },
+    {
+      "qid": "Q28800473",
+      "name": "Sarpreet Singh",
+      "fame": 26
+    },
+    {
+      "qid": "Q26259982",
+      "name": "Matthijs de Ligt",
+      "fame": 57
+    },
+    {
+      "qid": "Q431267",
+      "name": "Julio dos Santos",
+      "fame": 27
+    },
+    {
+      "qid": "Q109397",
+      "name": "Claudio Pizarro",
+      "fame": 55
+    },
+    {
+      "qid": "Q431669",
+      "name": "Oscar Lewicki",
+      "fame": 28
+    },
+    {
+      "qid": "Q433185",
+      "name": "Alexander Baumjohann",
+      "fame": 26
+    },
+    {
+      "qid": "Q435337",
+      "name": "Søren Lerby",
+      "fame": 32
+    },
+    {
+      "qid": "Q23540953",
+      "name": "Alphonso Davies",
+      "fame": 55
+    },
+    {
+      "qid": "Q951342",
+      "name": "Samuel Osei Kuffour",
+      "fame": 38
+    },
+    {
+      "qid": "Q437545",
+      "name": "Owen Hargreaves",
+      "fame": 55
+    },
+    {
+      "qid": "Q16236952",
+      "name": "João Palhinha",
+      "fame": 36
+    },
+    {
+      "qid": "Q252190",
+      "name": "Xherdan Shaqiri",
+      "fame": 71
+    },
+    {
+      "qid": "Q27694",
+      "name": "Emre Can",
+      "fame": 61
+    },
+    {
+      "qid": "Q151269",
+      "name": "Robert Lewandowski",
+      "fame": 106
+    },
+    {
+      "qid": "Q150484",
+      "name": "Ivica Olić",
+      "fame": 57
+    },
+    {
+      "qid": "Q453242",
+      "name": "Alexander Zickler",
+      "fame": 25
+    },
+    {
+      "qid": "Q150947",
+      "name": "Martin Demichelis",
+      "fame": 57
+    },
+    {
+      "qid": "Q151062",
+      "name": "Michael Rensing",
+      "fame": 39
+    },
+    {
+      "qid": "Q28699707",
+      "name": "Kim Min-jae",
+      "fame": 42
+    },
+    {
+      "qid": "Q151260",
+      "name": "Jérôme Boateng",
+      "fame": 78
+    },
+    {
+      "qid": "Q151278",
+      "name": "Holger Badstuber",
+      "fame": 55
+    },
+    {
+      "qid": "Q11948",
+      "name": "Michael Ballack",
+      "fame": 80
+    },
+    {
+      "qid": "Q151853",
+      "name": "Mark van Bommel",
+      "fame": 60
+    },
+    {
+      "qid": "Q125438",
+      "name": "Massimo Oddo",
+      "fame": 47
+    },
+    {
+      "qid": "Q45766",
+      "name": "Mario Gómez",
+      "fame": 72
+    },
+    {
+      "qid": "Q342411",
+      "name": "Emil Kostadinov",
+      "fame": 37
+    },
+    {
+      "qid": "Q152354",
+      "name": "Hans-Jörg Butt",
+      "fame": 45
+    },
+    {
+      "qid": "Q152492",
+      "name": "Roque Santa Cruz",
+      "fame": 50
+    },
+    {
+      "qid": "Q104454",
+      "name": "Mario Götze",
+      "fame": 76
+    },
+    {
+      "qid": "Q13494",
+      "name": "Jean-Pierre Papin",
+      "fame": 57
+    },
+    {
+      "qid": "Q152725",
+      "name": "Roy Makaay",
+      "fame": 47
+    },
+    {
+      "qid": "Q16499882",
+      "name": "Leroy Sané",
+      "fame": 63
+    },
+    {
+      "qid": "Q152940",
+      "name": "Marcell Jansen",
+      "fame": 50
+    },
+    {
+      "qid": "Q16528455",
+      "name": "Alessandro Schöpf",
+      "fame": 39
+    },
+    {
+      "qid": "Q462779",
+      "name": "Medhi Benatia",
+      "fame": 54
+    },
+    {
+      "qid": "Q153387",
+      "name": "Hasan Salihamidžić",
+      "fame": 47
+    },
+    {
+      "qid": "Q154156",
+      "name": "Mehmet Scholl",
+      "fame": 48
+    },
+    {
+      "qid": "Q1439915",
+      "name": "Eric Dier",
+      "fame": 58
+    },
+    {
+      "qid": "Q154305",
+      "name": "Niko Kovač",
+      "fame": 54
+    },
+    {
+      "qid": "Q154303",
+      "name": "Piotr Trochowski",
+      "fame": 42
+    },
+    {
+      "qid": "Q209942",
+      "name": "Sadio Mané",
+      "fame": 91
+    },
+    {
+      "qid": "Q65675442",
+      "name": "Joshua Zirkzee",
+      "fame": 41
+    },
+    {
+      "qid": "Q210919",
+      "name": "Edson Braafheid",
+      "fame": 43
+    },
+    {
+      "qid": "Q57079",
+      "name": "Jürgen Klinsmann",
+      "fame": 77
+    },
+    {
+      "qid": "Q56257870",
+      "name": "Ryan Gravenberch",
+      "fame": 49
+    },
+    {
+      "qid": "Q19599124",
+      "name": "Benjamin Pavard",
+      "fame": 62
+    },
+    {
+      "qid": "Q57548",
+      "name": "Bruno Labbadia",
+      "fame": 27
+    },
+    {
+      "qid": "Q57167",
+      "name": "Zé Roberto",
+      "fame": 42
+    },
+    {
+      "qid": "Q1918",
+      "name": "Franck Ribéry",
+      "fame": 89
+    },
+    {
+      "qid": "Q76753",
+      "name": "Tim Borowski",
+      "fame": 44
+    },
+    {
+      "qid": "Q1926",
+      "name": "Alou Diarra",
+      "fame": 41
+    },
+    {
+      "qid": "Q19367",
+      "name": "Juan Bernat",
+      "fame": 46
+    },
+    {
+      "qid": "Q59490",
+      "name": "Serge Gnabry",
+      "fame": 58
+    },
+    {
+      "qid": "Q19948076",
+      "name": "Álvaro Odriozola",
+      "fame": 53
+    },
+    {
+      "qid": "Q17505880",
+      "name": "Gianluca Gaudino",
+      "fame": 36
+    },
+    {
+      "qid": "Q60315",
+      "name": "Sebastian Rudy",
+      "fame": 44
+    },
+    {
+      "qid": "Q60340",
+      "name": "Sven Ulreich",
+      "fame": 44
+    },
+    {
+      "qid": "Q60536",
+      "name": "Thomas Strunz",
+      "fame": 33
+    },
+    {
+      "qid": "Q642850",
+      "name": "Sebastian Rode",
+      "fame": 43
+    },
+    {
+      "qid": "Q520721",
+      "name": "Leon Goretzka",
+      "fame": 57
+    },
+    {
+      "qid": "Q60834",
+      "name": "Georg Niedermeier",
+      "fame": 26
+    },
+    {
+      "qid": "Q523555",
+      "name": "Sandro Wagner",
+      "fame": 36
+    },
+    {
+      "qid": "Q61225",
+      "name": "Markus Babbel",
+      "fame": 41
+    },
+    {
+      "qid": "Q174926",
+      "name": "Márcio Rafael Ferreira de Souza",
+      "fame": 49
+    },
+    {
+      "qid": "Q6298063",
+      "name": "João Cancelo",
+      "fame": 57
+    },
+    {
+      "qid": "Q551633",
+      "name": "Hans Pflügler",
+      "fame": 26
+    },
+    {
+      "qid": "Q20723878",
+      "name": "Dayot Upamecano",
+      "fame": 51
+    },
+    {
+      "qid": "Q80471",
+      "name": "Miroslav Klose",
+      "fame": 101
+    },
+    {
+      "qid": "Q558041",
+      "name": "Thorsten Fink",
+      "fame": 33
+    },
+    {
+      "qid": "Q6413296",
+      "name": "Kingsley Coman",
+      "fame": 59
+    },
+    {
+      "qid": "Q667596",
+      "name": "Yann Sommer",
+      "fame": 56
+    },
+    {
+      "qid": "Q80761",
+      "name": "Dante Bonfim Costa Santos",
+      "fame": 52
+    },
+    {
+      "qid": "Q186478",
+      "name": "Luca Toni",
+      "fame": 57
+    },
+    {
+      "qid": "Q63720",
+      "name": "Serdar Taşçı",
+      "fame": 40
+    },
+    {
+      "qid": "Q187171",
+      "name": "Mario Mandžukić",
+      "fame": 75
+    },
+    {
+      "qid": "Q18394009",
+      "name": "Renato Sanches",
+      "fame": 56
+    },
+    {
+      "qid": "Q21031698",
+      "name": "Giulia Gwinn",
+      "fame": 30
+    },
+    {
+      "qid": "Q181168",
+      "name": "Bernardo",
+      "fame": 42
+    },
+    {
+      "qid": "Q192671",
+      "name": "Arturo Vidal",
+      "fame": 74
+    },
+    {
+      "qid": "Q57433",
+      "name": "Thomas Berthold",
+      "fame": 40
+    },
+    {
+      "qid": "Q573326",
+      "name": "Jan Kirchhoff",
+      "fame": 32
+    },
+    {
+      "qid": "Q18670270",
+      "name": "Konrad Laimer",
+      "fame": 41
+    },
+    {
+      "qid": "Q208104",
+      "name": "Carasu",
+      "fame": 86
+    },
+    {
+      "qid": "Q694542",
+      "name": "Mazinho Oliveira",
+      "fame": 46
+    },
+    {
+      "qid": "Q694852",
+      "name": "Mitchell Weiser",
+      "fame": 34
+    },
+    {
+      "qid": "Q62050484",
+      "name": "Michael Olise",
+      "fame": 57
+    },
+    {
+      "qid": "Q17493",
+      "name": "Thiago Alcántara",
+      "fame": 65
+    },
+    {
+      "qid": "Q18924954",
+      "name": "Lucas Hernandez",
+      "fame": 58
+    },
+    {
+      "qid": "Q201752",
+      "name": "Javi Martínez",
+      "fame": 56
+    },
+    {
+      "qid": "Q202237",
+      "name": "Landon Donovan",
+      "fame": 58
+    },
+    {
+      "qid": "Q354919",
+      "name": "Guy Demel",
+      "fame": 31
+    },
+    {
+      "qid": "Q26932598",
+      "name": "Achraf Hakimi",
+      "fame": 71
+    },
+    {
+      "qid": "Q365175",
+      "name": "Victor Ikpeba",
+      "fame": 37
+    },
+    {
+      "qid": "Q36184031",
+      "name": "Gregor Kobel",
+      "fame": 42
+    },
+    {
+      "qid": "Q370348",
+      "name": "Adrián Ramos",
+      "fame": 40
+    },
+    {
+      "qid": "Q371788",
+      "name": "Ji Dong-won",
+      "fame": 33
+    },
+    {
+      "qid": "Q279436",
+      "name": "Ömer Toprak",
+      "fame": 38
+    },
+    {
+      "qid": "Q30148558",
+      "name": "Jadon Sancho",
+      "fame": 61
+    },
+    {
+      "qid": "Q246724",
+      "name": "Paul Lambert",
+      "fame": 34
+    },
+    {
+      "qid": "Q3177357",
+      "name": "Jeremy Toljan",
+      "fame": 31
+    },
+    {
+      "qid": "Q3189078",
+      "name": "Julian Brandt",
+      "fame": 50
+    },
+    {
+      "qid": "Q308925",
+      "name": "Jürgen Kohler",
+      "fame": 50
+    },
+    {
+      "qid": "Q390159",
+      "name": "Jörg Heinrich",
+      "fame": 26
+    },
+    {
+      "qid": "Q294467",
+      "name": "Mladen Petrić",
+      "fame": 39
+    },
+    {
+      "qid": "Q309731",
+      "name": "Márcio Amoroso dos Santos",
+      "fame": 47
+    },
+    {
+      "qid": "Q310328",
+      "name": "Andriy Yarmolenko",
+      "fame": 53
+    },
+    {
+      "qid": "Q310625",
+      "name": "Marc Bartra",
+      "fame": 52
+    },
+    {
+      "qid": "Q312512",
+      "name": "Lee Young-pyo",
+      "fame": 34
+    },
+    {
+      "qid": "Q313438",
+      "name": "Stéphane Chapuisat",
+      "fame": 33
+    },
+    {
+      "qid": "Q313725",
+      "name": "Matthew Amoah",
+      "fame": 30
+    },
+    {
+      "qid": "Q28717698",
+      "name": "Julian Ryerson",
+      "fame": 43
+    },
+    {
+      "qid": "Q314440",
+      "name": "Paulo Sousa",
+      "fame": 38
+    },
+    {
+      "qid": "Q315641",
+      "name": "Florian Kringe",
+      "fame": 26
+    },
+    {
+      "qid": "Q28239",
+      "name": "Gonzalo Castro",
+      "fame": 42
+    },
+    {
+      "qid": "Q245295",
+      "name": "Euzebiusz Smolarek",
+      "fame": 43
+    },
+    {
+      "qid": "Q321567",
+      "name": "Antonio Rukavina",
+      "fame": 46
+    },
+    {
+      "qid": "Q28967995",
+      "name": "Erling Braut Haaland",
+      "fame": 96
+    },
+    {
+      "qid": "Q326159",
+      "name": "Niclas Füllkrug",
+      "fame": 52
+    },
+    {
+      "qid": "Q327285",
+      "name": "Stefan Reuter",
+      "fame": 39
+    },
+    {
+      "qid": "Q29162",
+      "name": "Tomáš Rosický",
+      "fame": 61
+    },
+    {
+      "qid": "Q350536",
+      "name": "Flávio Conceição",
+      "fame": 28
+    },
+    {
+      "qid": "Q351463",
+      "name": "Tamás Hajnal",
+      "fame": 27
+    },
+    {
+      "qid": "Q62015814",
+      "name": "Nico Schlotterbeck",
+      "fame": 45
+    },
+    {
+      "qid": "Q152340",
+      "name": "Jan Koller",
+      "fame": 50
+    },
+    {
+      "qid": "Q152377",
+      "name": "Marco Reus",
+      "fame": 77
+    },
+    {
+      "qid": "Q75857",
+      "name": "Nuri Şahin",
+      "fame": 57
+    },
+    {
+      "qid": "Q458101",
+      "name": "Ciro Immobile",
+      "fame": 63
+    },
+    {
+      "qid": "Q152984",
+      "name": "Christoph Metzelder",
+      "fame": 48
+    },
+    {
+      "qid": "Q153266",
+      "name": "Łukasz Piszczek",
+      "fame": 50
+    },
+    {
+      "qid": "Q7665927",
+      "name": "Sébastien Haller",
+      "fame": 48
+    },
+    {
+      "qid": "Q153416",
+      "name": "Marcel Schmelzer",
+      "fame": 50
+    },
+    {
+      "qid": "Q66738004",
+      "name": "Fábio Silva",
+      "fame": 30
+    },
+    {
+      "qid": "Q14558450",
+      "name": "Adnan Januzaj",
+      "fame": 46
+    },
+    {
+      "qid": "Q2301910",
+      "name": "Michy Batshuayi",
+      "fame": 52
+    },
+    {
+      "qid": "Q41896054",
+      "name": "Youssoufa Moukoko",
+      "fame": 40
+    },
+    {
+      "qid": "Q39287",
+      "name": "Oliver Kirch",
+      "fame": 28
+    },
+    {
+      "qid": "Q154397",
+      "name": "Roman Weidenfeller",
+      "fame": 56
+    },
+    {
+      "qid": "Q154623",
+      "name": "Lucas Barrios",
+      "fame": 43
+    },
+    {
+      "qid": "Q154708",
+      "name": "Shinji Kagawa",
+      "fame": 70
+    },
+    {
+      "qid": "Q714116",
+      "name": "Thorgan Hazard",
+      "fame": 51
+    },
+    {
+      "qid": "Q24084301",
+      "name": "Donyell Malen",
+      "fame": 46
+    },
+    {
+      "qid": "Q151025",
+      "name": "Q151025",
+      "fame": 64
+    },
+    {
+      "qid": "Q26965570",
+      "name": "Salih Özcan",
+      "fame": 39
+    },
+    {
+      "qid": "Q472293",
+      "name": "Otto Addo",
+      "fame": 33
+    },
+    {
+      "qid": "Q207112",
+      "name": "Zlatan Alomerović",
+      "fame": 26
+    },
+    {
+      "qid": "Q155911",
+      "name": "Thomas Häßler",
+      "fame": 45
+    },
+    {
+      "qid": "Q155919",
+      "name": "Andreas Möller",
+      "fame": 48
+    },
+    {
+      "qid": "Q155924",
+      "name": "Patrik Berger",
+      "fame": 38
+    },
+    {
+      "qid": "Q822789",
+      "name": "Marvin Ducksch",
+      "fame": 29
+    },
+    {
+      "qid": "Q823064",
+      "name": "Erik Durm",
+      "fame": 46
+    },
+    {
+      "qid": "Q129109",
+      "name": "Matthias Ginter",
+      "fame": 53
+    },
+    {
+      "qid": "Q116067",
+      "name": "Philipp Degen",
+      "fame": 33
+    },
+    {
+      "qid": "Q157584",
+      "name": "Nelson Valdez",
+      "fame": 44
+    },
+    {
+      "qid": "Q158367",
+      "name": "Kevin Großkreutz",
+      "fame": 48
+    },
+    {
+      "qid": "Q211698",
+      "name": "Park Joo-ho",
+      "fame": 34
+    },
+    {
+      "qid": "Q745506",
+      "name": "Mustafa Amini",
+      "fame": 25
+    },
+    {
+      "qid": "Q159951",
+      "name": "Karl-Heinz Riedle",
+      "fame": 38
+    },
+    {
+      "qid": "Q30346413",
+      "name": "Sergio Gómez",
+      "fame": 38
+    },
+    {
+      "qid": "Q193024",
+      "name": "Alexander Frei",
+      "fame": 48
+    },
+    {
+      "qid": "Q160795",
+      "name": "David Odonkor",
+      "fame": 40
+    },
+    {
+      "qid": "Q161038",
+      "name": "Neven Subotić",
+      "fame": 45
+    },
+    {
+      "qid": "Q57183",
+      "name": "Matthias Sammer",
+      "fame": 52
+    },
+    {
+      "qid": "Q161089",
+      "name": "Ilkay Gündogan",
+      "fame": 66
+    },
+    {
+      "qid": "Q6860599",
+      "name": "Miloš Jojić",
+      "fame": 34
+    },
+    {
+      "qid": "Q106915801",
+      "name": "Carney Chukwuemeka",
+      "fame": 35
+    },
+    {
+      "qid": "Q22007007",
+      "name": "Emre Mor",
+      "fame": 44
+    },
+    {
+      "qid": "Q106967174",
+      "name": "Daniel Svensson",
+      "fame": 27
+    },
+    {
+      "qid": "Q58377",
+      "name": "André Schürrle",
+      "fame": 69
+    },
+    {
+      "qid": "Q44977",
+      "name": "Pierre-Emerick Aubameyang",
+      "fame": 73
+    },
+    {
+      "qid": "Q56424307",
+      "name": "Karim Adeyemi",
+      "fame": 47
+    },
+    {
+      "qid": "Q110483835",
+      "name": "Jobe Bellingham",
+      "fame": 35
+    },
+    {
+      "qid": "Q502937",
+      "name": "Flemming Povlsen",
+      "fame": 28
+    },
+    {
+      "qid": "Q58762",
+      "name": "Dedê",
+      "fame": 25
+    },
+    {
+      "qid": "Q165697",
+      "name": "Sven Bender",
+      "fame": 45
+    },
+    {
+      "qid": "Q505864",
+      "name": "Steffen Freund",
+      "fame": 26
+    },
+    {
+      "qid": "Q217089",
+      "name": "Moritz Leitner",
+      "fame": 32
+    },
+    {
+      "qid": "Q506919",
+      "name": "Lars Ricken",
+      "fame": 28
+    },
+    {
+      "qid": "Q69495231",
+      "name": "Ian Maatsen",
+      "fame": 35
+    },
+    {
+      "qid": "Q507190",
+      "name": "Paco Alcácer",
+      "fame": 52
+    },
+    {
+      "qid": "Q167241",
+      "name": "Christian Wörns",
+      "fame": 31
+    },
+    {
+      "qid": "Q167294",
+      "name": "Patrick Owomoyela",
+      "fame": 29
+    },
+    {
+      "qid": "Q76866",
+      "name": "Mohamed Zidan",
+      "fame": 38
+    },
+    {
+      "qid": "Q66241169",
+      "name": "Jude Bellingham",
+      "fame": 76
+    },
+    {
+      "qid": "Q22279773",
+      "name": "Christian Pulisic",
+      "fame": 59
+    },
+    {
+      "qid": "Q509489",
+      "name": "Pascal Groß",
+      "fame": 40
+    },
+    {
+      "qid": "Q19938984",
+      "name": "Manuel Akanji",
+      "fame": 50
+    },
+    {
+      "qid": "Q57114",
+      "name": "Jens Lehmann",
+      "fame": 66
+    },
+    {
+      "qid": "Q50233588",
+      "name": "Leonardo Balerdi",
+      "fame": 28
+    },
+    {
+      "qid": "Q17612631",
+      "name": "Mikel Merino",
+      "fame": 55
+    },
+    {
+      "qid": "Q17659996",
+      "name": "Mahmoud Dahoud",
+      "fame": 40
+    },
+    {
+      "qid": "Q524870",
+      "name": "Roman Bürki",
+      "fame": 45
+    },
+    {
+      "qid": "Q61219",
+      "name": "Fredi Bobic",
+      "fame": 39
+    },
+    {
+      "qid": "Q61371",
+      "name": "Julian Schieber",
+      "fame": 35
+    },
+    {
+      "qid": "Q15524059",
+      "name": "Mitsuru Maruoka",
+      "fame": 27
+    },
+    {
+      "qid": "Q531080",
+      "name": "Paulo César Tinga",
+      "fame": 48
+    },
+    {
+      "qid": "Q1350685",
+      "name": "Nico Schulz",
+      "fame": 31
+    },
+    {
+      "qid": "Q110523",
+      "name": "Manuel Friedrich",
+      "fame": 33
+    },
+    {
+      "qid": "Q463979",
+      "name": "Rubén Sosa",
+      "fame": 29
+    },
+    {
+      "qid": "Q80314837",
+      "name": "Maximilian Beier",
+      "fame": 36
+    },
+    {
+      "qid": "Q141354",
+      "name": "Sebastian Kehl",
+      "fame": 48
+    },
+    {
+      "qid": "Q15844698",
+      "name": "Julian Weigl",
+      "fame": 40
+    },
+    {
+      "qid": "Q111627959",
+      "name": "Jamie Gittens",
+      "fame": 32
+    },
+    {
+      "qid": "Q20851003",
+      "name": "Ousmane Dembélé",
+      "fame": 86
+    },
+    {
+      "qid": "Q18342471",
+      "name": "Marius Wolf",
+      "fame": 34
+    },
+    {
+      "qid": "Q2036160",
+      "name": "Thomas Meunier",
+      "fame": 55
+    },
+    {
+      "qid": "Q672558",
+      "name": "Ned Zelic",
+      "fame": 46
+    },
+    {
+      "qid": "Q20995048",
+      "name": "Felix Passlack",
+      "fame": 31
+    },
+    {
+      "qid": "Q431455",
+      "name": "Sergej Barbarez",
+      "fame": 36
+    },
+    {
+      "qid": "Q677546",
+      "name": "Heiko Herrlich",
+      "fame": 25
+    },
+    {
+      "qid": "Q434750",
+      "name": "Sunday Oliseh",
+      "fame": 37
+    },
+    {
+      "qid": "Q822781",
+      "name": "Jonas Hofmann",
+      "fame": 40
+    },
+    {
+      "qid": "Q75019636",
+      "name": "Gio Reyna",
+      "fame": 42
+    },
+    {
+      "qid": "Q440409",
+      "name": "Willy Aubameyang",
+      "fame": 25
+    },
+    {
+      "qid": "Q1740190",
+      "name": "Kevin Kampl",
+      "fame": 37
+    },
+    {
+      "qid": "Q192923",
+      "name": "Sokrátis Papastathópoulos",
+      "fame": 55
+    },
+    {
+      "qid": "Q687140",
+      "name": "Leonardo Bittencourt",
+      "fame": 30
+    },
+    {
+      "qid": "Q193488",
+      "name": "Steven Pienaar",
+      "fame": 49
+    },
+    {
+      "qid": "Q573640",
+      "name": "Anthony Modeste",
+      "fame": 27
+    },
+    {
+      "qid": "Q18637429",
+      "name": "Serhou Guirassy",
+      "fame": 39
+    },
+    {
+      "qid": "Q691193",
+      "name": "Marwin Hitz",
+      "fame": 33
+    },
+    {
+      "qid": "Q16320332",
+      "name": "Maximilian Philipp",
+      "fame": 32
+    },
+    {
+      "qid": "Q691911",
+      "name": "Mitchell Langerak",
+      "fame": 43
+    },
+    {
+      "qid": "Q64606160",
+      "name": "Reinier",
+      "fame": 30
+    },
+    {
+      "qid": "Q196219",
+      "name": "Henrikh Mkhitaryan",
+      "fame": 74
+    },
+    {
+      "qid": "Q151034",
+      "name": "Kevin-Prince Boateng",
+      "fame": 63
+    },
+    {
+      "qid": "Q23759917",
+      "name": "Alexander Isak",
+      "fame": 59
+    },
+    {
+      "qid": "Q961878",
+      "name": "Thomas Delaney",
+      "fame": 44
+    },
+    {
+      "qid": "Q151838",
+      "name": "Axel Witsel",
+      "fame": 62
+    },
+    {
+      "qid": "Q188542",
+      "name": "Aliaksandr Hleb",
+      "fame": 51
+    },
+    {
+      "qid": "Q189716",
+      "name": "Mauro Camoranesi",
+      "fame": 52
+    },
+    {
+      "qid": "Q1356772",
+      "name": "Robbie Kruse",
+      "fame": 37
+    },
+    {
+      "qid": "Q191848",
+      "name": "Khalid Boulahrouz",
+      "fame": 50
+    },
+    {
+      "qid": "Q23559699",
+      "name": "Waldemar Anton",
+      "fame": 37
+    },
+    {
+      "qid": "Q105955374",
+      "name": "Bilal El Khannouss",
+      "fame": 33
+    },
+    {
+      "qid": "Q446177",
+      "name": "Pavel Kuka",
+      "fame": 28
+    },
+    {
+      "qid": "Q43381082",
+      "name": "Nicolás González",
+      "fame": 43
+    },
+    {
+      "qid": "Q215890",
+      "name": "Dunga",
+      "fame": 70
+    },
+    {
+      "qid": "Q113245",
+      "name": "Murat Yakin",
+      "fame": 37
+    },
+    {
+      "qid": "Q54094",
+      "name": "Sami Khedira",
+      "fame": 75
+    },
+    {
+      "qid": "Q152236",
+      "name": "Matthieu Delpierre",
+      "fame": 26
+    },
+    {
+      "qid": "Q45369082",
+      "name": "Chris Führich",
+      "fame": 31
+    },
+    {
+      "qid": "Q152968",
+      "name": "Kevin Kurányi",
+      "fame": 50
+    },
+    {
+      "qid": "Q23927885",
+      "name": "Santiago Ascacibar",
+      "fame": 25
+    },
+    {
+      "qid": "Q84158344",
+      "name": "Nick Woltemade",
+      "fame": 37
+    },
+    {
+      "qid": "Q350351",
+      "name": "Mohammed Abdellaoue",
+      "fame": 32
+    },
+    {
+      "qid": "Q356566",
+      "name": "Adhemar",
+      "fame": 27
+    },
+    {
+      "qid": "Q694924",
+      "name": "Florian Klein",
+      "fame": 31
+    },
+    {
+      "qid": "Q351797",
+      "name": "Emiliano Insúa",
+      "fame": 36
+    },
+    {
+      "qid": "Q2319654",
+      "name": "Toni Šunjić",
+      "fame": 30
+    },
+    {
+      "qid": "Q203657",
+      "name": "Jon Dahl Tomasson",
+      "fame": 47
+    },
+    {
+      "qid": "Q358783",
+      "name": "Florin Răducioiu",
+      "fame": 33
+    },
+    {
+      "qid": "Q360056",
+      "name": "Jurica Vranješ",
+      "fame": 31
+    },
+    {
+      "qid": "Q155049",
+      "name": "Q155049",
+      "fame": 46
+    },
+    {
+      "qid": "Q362296",
+      "name": "Karim Haggui",
+      "fame": 27
+    },
+    {
+      "qid": "Q68676722",
+      "name": "Angelo Stiller",
+      "fame": 33
+    },
+    {
+      "qid": "Q205778",
+      "name": "Pavel Pogrebniak",
+      "fame": 45
+    },
+    {
+      "qid": "Q366108",
+      "name": "Marcelo Bordon",
+      "fame": 27
+    },
+    {
+      "qid": "Q155604",
+      "name": "Vedad Ibišević",
+      "fame": 49
+    },
+    {
+      "qid": "Q1851874",
+      "name": "Marco Rojas",
+      "fame": 27
+    },
+    {
+      "qid": "Q982163",
+      "name": "Genki Haraguchi",
+      "fame": 59
+    },
+    {
+      "qid": "Q208673",
+      "name": "Federico Macheda",
+      "fame": 43
+    },
+    {
+      "qid": "Q115859",
+      "name": "Zdravko Kuzmanović",
+      "fame": 36
+    },
+    {
+      "qid": "Q55955918",
+      "name": "Deniz Undav",
+      "fame": 47
+    },
+    {
+      "qid": "Q720879",
+      "name": "Ibrahima Traoré",
+      "fame": 33
+    },
+    {
+      "qid": "Q274523",
+      "name": "Oriol Romeu",
+      "fame": 45
+    },
+    {
+      "qid": "Q1893192",
+      "name": "Alexandru Maxim",
+      "fame": 25
+    },
+    {
+      "qid": "Q75993",
+      "name": "Ermin Bičakčić",
+      "fame": 34
+    },
+    {
+      "qid": "Q84435",
+      "name": "Martin Stranzl",
+      "fame": 28
+    },
+    {
+      "qid": "Q57142",
+      "name": "Timo Hildebrand",
+      "fame": 38
+    },
+    {
+      "qid": "Q57152",
+      "name": "Thomas Hitzlsperger",
+      "fame": 49
+    },
+    {
+      "qid": "Q57217",
+      "name": "Andreas Hinkel",
+      "fame": 34
+    },
+    {
+      "qid": "Q76322",
+      "name": "Yıldıray Baştürk",
+      "fame": 33
+    },
+    {
+      "qid": "Q12156405",
+      "name": "Carlos Gruezo",
+      "fame": 29
+    },
+    {
+      "qid": "Q893814",
+      "name": "Boris Živković",
+      "fame": 26
+    },
+    {
+      "qid": "Q433125",
+      "name": "Danijel Ljuboja",
+      "fame": 30
+    },
+    {
+      "qid": "Q215469",
+      "name": "Francisco Javier Rodríguez",
+      "fame": 37
+    },
+    {
+      "qid": "Q91531",
+      "name": "Odisseas Vlachodimos",
+      "fame": 29
+    },
+    {
+      "qid": "Q53280628",
+      "name": "Ozan Kabak",
+      "fame": 36
+    },
+    {
+      "qid": "Q77388",
+      "name": "Daniel Didavi",
+      "fame": 27
+    },
+    {
+      "qid": "Q287841",
+      "name": "Hajime Hosogai",
+      "fame": 56
+    },
+    {
+      "qid": "Q22342392",
+      "name": "Josip Brekalo",
+      "fame": 35
+    },
+    {
+      "qid": "Q169005",
+      "name": "Daniel Schwaab",
+      "fame": 27
+    },
+    {
+      "qid": "Q249198",
+      "name": "Filip Kostić",
+      "fame": 45
+    },
+    {
+      "qid": "Q10526787",
+      "name": "Wataru Endō",
+      "fame": 65
+    },
+    {
+      "qid": "Q60122",
+      "name": "Christian Träsch",
+      "fame": 37
+    },
+    {
+      "qid": "Q66385776",
+      "name": "Nathaniel Phillips",
+      "fame": 30
+    },
+    {
+      "qid": "Q60191",
+      "name": "Roberto Hilbert",
+      "fame": 30
+    },
+    {
+      "qid": "Q512820",
+      "name": "Artem Kravets",
+      "fame": 28
+    },
+    {
+      "qid": "Q514012",
+      "name": "Slobodan Dubajić",
+      "fame": 42
+    },
+    {
+      "qid": "Q60360",
+      "name": "Martin Harnik",
+      "fame": 44
+    },
+    {
+      "qid": "Q86312",
+      "name": "Rani Khedira",
+      "fame": 33
+    },
+    {
+      "qid": "Q20093885",
+      "name": "Borna Sosa",
+      "fame": 35
+    },
+    {
+      "qid": "Q47015833",
+      "name": "Konstantínos Mavropános",
+      "fame": 37
+    },
+    {
+      "qid": "Q47067481",
+      "name": "Ermedin Demirović",
+      "fame": 33
+    },
+    {
+      "qid": "Q159516",
+      "name": "Andreas Beck",
+      "fame": 35
+    },
+    {
+      "qid": "Q525816",
+      "name": "Serey Die",
+      "fame": 28
+    },
+    {
+      "qid": "Q61230",
+      "name": "Christian Gentner",
+      "fame": 33
+    },
+    {
+      "qid": "Q28065104",
+      "name": "Omar Marmoush",
+      "fame": 44
+    },
+    {
+      "qid": "Q22694710",
+      "name": "Pablo Maffeo",
+      "fame": 29
+    },
+    {
+      "qid": "Q318563",
+      "name": "Ioánnis Amanatídis",
+      "fame": 30
+    },
+    {
+      "qid": "Q298480",
+      "name": "William Kvist",
+      "fame": 41
+    },
+    {
+      "qid": "Q296457",
+      "name": "Jesper Grønkjær",
+      "fame": 37
+    },
+    {
+      "qid": "Q66080",
+      "name": "Franco Foda",
+      "fame": 27
+    },
+    {
+      "qid": "Q231470",
+      "name": "Zvonimir Soldo",
+      "fame": 34
+    },
+    {
+      "qid": "Q66301",
+      "name": "Julian Schuster",
+      "fame": 26
+    },
+    {
+      "qid": "Q20436216",
+      "name": "Grischa Prömel",
+      "fame": 27
+    },
+    {
+      "qid": "Q299498",
+      "name": "Ciprian Marica",
+      "fame": 37
+    },
+    {
+      "qid": "Q299525",
+      "name": "Przemysław Tytoń",
+      "fame": 37
+    },
+    {
+      "qid": "Q319879",
+      "name": "Marcin Kamiński",
+      "fame": 30
+    },
+    {
+      "qid": "Q22998602",
+      "name": "Maximilian Mittelstädt",
+      "fame": 38
+    },
+    {
+      "qid": "Q62403",
+      "name": "Thomas Brdarić",
+      "fame": 31
+    },
+    {
+      "qid": "Q122346",
+      "name": "Hakan Yakın",
+      "fame": 43
+    },
+    {
+      "qid": "Q122341",
+      "name": "Marco Streller",
+      "fame": 38
+    },
+    {
+      "qid": "Q122350",
+      "name": "Ludovic Magnin",
+      "fame": 38
+    },
+    {
+      "qid": "Q122354",
+      "name": "Diego Benaglio",
+      "fame": 49
+    },
+    {
+      "qid": "Q552809",
+      "name": "Georges Mandjeck",
+      "fame": 28
+    },
+    {
+      "qid": "Q11557367",
+      "name": "Takuma Asano",
+      "fame": 61
+    },
+    {
+      "qid": "Q57148",
+      "name": "Cacau",
+      "fame": 62
+    },
+    {
+      "qid": "Q310206",
+      "name": "Fernando Meira",
+      "fame": 36
+    },
+    {
+      "qid": "Q310612",
+      "name": "Shinji Okazaki",
+      "fame": 68
+    },
+    {
+      "qid": "Q3529022",
+      "name": "Timo Werner",
+      "fame": 63
+    },
+    {
+      "qid": "Q312508",
+      "name": "Arthur Boka",
+      "fame": 37
+    },
+    {
+      "qid": "Q313380",
+      "name": "Krasimir Balakov",
+      "fame": 38
+    },
+    {
+      "qid": "Q558820",
+      "name": "Gōtoku Sakai",
+      "fame": 62
+    },
+    {
+      "qid": "Q314168",
+      "name": "Cristian Molinaro",
+      "fame": 29
+    },
+    {
+      "qid": "Q315665",
+      "name": "Ricardo Osorio",
+      "fame": 34
+    },
+    {
+      "qid": "Q316222",
+      "name": "Pável Pardo",
+      "fame": 30
+    },
+    {
+      "qid": "Q96755",
+      "name": "Antonio Rüdiger",
+      "fame": 65
+    },
+    {
+      "qid": "Q673702",
+      "name": "Steven Zuber",
+      "fame": 44
+    }
+  ]
+}
